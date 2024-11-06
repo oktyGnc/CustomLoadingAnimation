@@ -26,5 +26,5 @@ https://drive.google.com/file/d/12yy0WbhWC8PVER0QGSYyIc5ameIMHnDt/view?usp=shari
 
 1. **Projenizi Klonlayın**:
    ```bash
-   git clone https://github.com/<kullanici-adiniz>/CustomLoadingAnimation.git
+   git clone https://github.com/oktyGnc/CustomLoadingAnimation.git
    cd CustomLoadingAnimation
